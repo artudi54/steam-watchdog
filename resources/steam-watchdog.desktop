@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Steam Watchdog
+Exec="steam-watchdog"
+Icon=steam_watchdog
+Terminal=false
+Type=Application
+Categories=System;Utility;
